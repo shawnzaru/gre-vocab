@@ -7,4 +7,6 @@ In total 7872 words were collected from two versions of the New Oriental Red Boo
 
 For each word urls were given to different online dictionary websites: dict.cn, youdao.com, and etymonline.com
 
-If you click the url links too frequently you might be treated as a crawler. :)
+If you click on those urls too frequently you might be treated as a crawler. :)
+
+Rock n' Roll. Cram n' Rote.
